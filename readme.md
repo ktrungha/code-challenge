@@ -12,4 +12,8 @@ We're cool as long as we can view your solution without any pain.
 
 # Solution
 
-check readme inside problem 5 folder
+Problem 5: check readme inside problem 5 folder
+
+Problem 6: check doc at https://docs.google.com/document/d/1x7KC3vIouFEe3PabHSvs_ViQg0psPwUQ3T6SjS4M0VA/edit?usp=sharing
+
+Note: I can also do front end React, so I can do Problem 2, 3 as well if asked
